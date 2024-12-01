@@ -1,0 +1,5 @@
+- Take your input.txt file and separate each column into some data structure, array for me
+- Sort your two arrays from lowest value to highest
+- Compare both arrays at similar indices and take the absolute value of the difference of the values
+- Once that abs( difference ) is complete take the sum of all those results
+- The sum of all is your answer for day one.
