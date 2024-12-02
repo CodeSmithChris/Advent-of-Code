@@ -7,6 +7,6 @@
 ### Possible solution
 Create a list of Structs with an int array and bool for safe
 Create a node for each new line and assign that line to the array
-If true compare indices if the value is continously increasing or decreasing by a value of [1-3]
+Compare indices if the value is continously increasing or decreasing by a value of [1-3]
 If true switch the bool to true
 Count number of structs with safe == true
